@@ -41,5 +41,10 @@ namespace game_xep_hinh
         {
 
         }
+
+        private void pb1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

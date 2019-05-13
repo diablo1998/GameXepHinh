@@ -25,5 +25,10 @@ namespace game_xep_hinh
         {
 
         }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

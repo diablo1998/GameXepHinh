@@ -40,3 +40,6 @@ C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.csp
 C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
 C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
 C:\Users\Dell 5537\Desktop\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.FormXepHang.resources
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\bin\Debug\game_xep_hinh.exe.config
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.exe
+C:\Users\Administrator\Desktop\Git\GameXepHinh\game_xep_hinh\obj\Debug\game_xep_hinh.pdb
